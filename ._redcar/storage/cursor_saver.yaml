@@ -3,4 +3,16 @@ cursor_positions:
   - :path: .gitignore
     :cursor_offset: 0
     :timestamp: 2012-03-04 17:46:33.336000 -05:00
+  - :path: config/database.yml
+    :cursor_offset: 429
+    :timestamp: 2012-03-04 17:46:35.460000 -05:00
+  - :path: config/environments/development.rb
+    :cursor_offset: 0
+    :timestamp: 2012-03-04 17:46:33.441000 -05:00
+  - :path: config/environments/production.rb
+    :cursor_offset: 0
+    :timestamp: 2012-03-04 17:46:33.448000 -05:00
+  - :path: app/views/welcome/index.html.erb
+    :cursor_offset: 32
+    :timestamp: 2012-03-04 19:01:26.373000 -05:00
 files_to_retain: 0
